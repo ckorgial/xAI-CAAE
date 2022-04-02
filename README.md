@@ -24,11 +24,11 @@ The control and change of the Explainable Artificial Intelligence System is done
 
 # Training
 
-python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --output Checkpoints
+python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --output checkpoints
 
 # Testing 
 
-python mainCAAEsplit.py --mode test --load Checkpoints/epoch200 --input data/FGNET --output Results --age 0 or 1 --gender 0 or 1
+python mainCAAEsplit.py --mode test --load Checkpoints/epoch200 --input data/FGNET --output results --age 0 or 1 --gender 0 or 1
 
 # Authors
 
