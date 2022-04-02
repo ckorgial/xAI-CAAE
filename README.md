@@ -37,7 +37,7 @@ python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGN
 
 # Authors
 
-***Christos Korgialas and Evangelia Pantraki***
+***[Christos Korgialas](ckorgial@csd.auth.gr) and [Evangelia Pantraki](epantrak@csd.auth.gr)***
 
 
 
