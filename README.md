@@ -2,13 +2,13 @@
 
 This repository was created with the aim of incorporating an Explanatory System in the Conditional Adversarial Autoencoder (CAAE). The main source of inspiration was the paper "Age Progression/Regressionby Conditional Adversarial Autoencoder" proposed by (Zhang, Song, et al.). Moreover, the paper "Enhancing Generative Adversarial Networks via Explainable AI Systems" proposed by (Nagisetyy, Graves, et al.) formed the base of adding xAI methods in CAAE. Endly, thanks to Mattan Serry and the AgeProgression work, we devoloped our code in PyTorch.
 
-# Dataset
-
-The dataset we used for training was the CACD + UTKFace which consists of 21267 images in 7 age classes. FGNET with 1002 used for the test purpose.
-
 # Our Paper
 
 This code was used to implement the experiments of our Paper which published in the Image and Vision Computing Journal "Special Issue on Deep Learning Techniques Applied to Faces"
+
+# Dataset
+
+The dataset we used for training was the CACD + UTKFace which consists of 21267 images in 7 age classes. FGNET with 1002 used for the test purpose.
 
 # Prerequisites
 
