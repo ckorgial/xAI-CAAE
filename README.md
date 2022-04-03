@@ -10,7 +10,7 @@ This code was used to implement the experiments of our Paper which published in 
 
 # Dataset
 
-The dataset we used for training was the CACD + UTKFace which consists of 21267 images in 7 age classes. FGNET with 1002 images used for the test purpose.
+The dataset we used for training was the CACD + UTKFace which consists of 21267 images in 7 age classes. FGNET with 1002 images used for the test purpose. The data folder can be dowloaded through [Google Drive](https://drive.google.com/drive/folders/1AvYtsiAiZaO611AMGBK8fSFCqrUlBOOf?usp=sharing)
 
 # Prerequisites
 
