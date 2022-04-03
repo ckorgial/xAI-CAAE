@@ -18,11 +18,16 @@ The dataset we used for training was the CACD + UTKFace which consists of 21267 
 2. Pytorch 1.2.0
 3. Captum 0.4.0
 4. Lime 0.2.0.1
-5. NumPy, scikit-learn, scikit-metrics, OpenCV, imageio and Matplotlib
 
 # Implementation
 
 The control and change of the Explainable Artificial Intelligence System is done through the net.teachSplit() in mainCAAEsplit.py script. If it is a need to train the Original CAAE, without the addition of the xAI System, explainable is set to **False**. The xAI System is activated by setting explainable to **True**. Different methods of xAI in CAAE can be added by setting the explanation_type with '**saliency**' or '**shap**' or '**lime**'.
+
+# Virtual Environment
+
+```shell
+conda create --name <env> --file requirements.txt
+```
 
 # Training
 
