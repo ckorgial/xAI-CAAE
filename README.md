@@ -4,7 +4,7 @@ This repository was created with the aim of incorporating an Explanatory System 
 
 # Our Paper
 
-This code was used to implement the experiments of our Paper which published in the ***Image and Vision Computing Journal "Special Issue on Deep Learning Techniques Applied to Faces"***.
+This code was used to implement the experiments of our Paper which published in the **Image and Vision Computing Journal "Special Issue on Deep Learning Techniques Applied to Faces"**.
 
 [Face Aging by Explainable Conditional Adversarial Autoencoders]()
 
