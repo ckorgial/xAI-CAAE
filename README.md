@@ -21,7 +21,7 @@ The dataset we used for training was the CACD + UTKFace which consists of 21267 
 
 # Implementation
 
-The control and change of the Explainable Artificial Intelligence System is done through the net.teachSplit() in mainCAAEsplit.py script. If it is a need to train the Original CAAE, without the addition of the xAI System, explainable is set to **False**. The xAI System is activated by setting explainable to **True**. Different methods of xAI in CAAE can be added by setting the explanation_type with '**saliency**' or '**shap**' or '**lime**'.
+The control and change of the Explainable Artificial Intelligence System is achieved through the *net.teachSplit()* in mainCAAEsplit.py script. If it is a need to train the Original CAAE, without the addition of the xAI System, *explainable* is set to **False**. The xAI System is activated by setting *explainable* to **True**. Different methods of xAI in CAAE can be added by setting the *explanation_type* with '**saliency**' or '**shap**' or '**lime**'.
 
 # Virtual Environment
 
