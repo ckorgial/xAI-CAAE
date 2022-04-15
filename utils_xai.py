@@ -174,7 +174,7 @@ def explanation_hook_cifar(module, grad_input, grad_output):
     temp = get_values()
     # print("XAI")
     # multiply with mask
-    new_grad = grad_input[0] + 0.5 * (grad_input[0] * temp)
+    new_grad = grad_input[0] + 0.5 * (grad_input[0] * temp) # Adjust the parameter \theta (0.2 or 0.5)
 
     return (new_grad, )
 
