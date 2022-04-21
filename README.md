@@ -17,7 +17,6 @@ The dataset we used for training was the CACD + UTKFace which consists of 21267 
 1. Python 3.7
 2. Pytorch 1.2.0
 3. Captum 0.4.0
-4. Lime 0.2.0.1
 
 # Implementation
 
