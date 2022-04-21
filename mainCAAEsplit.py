@@ -1,4 +1,4 @@
-import modelsplit
+import modelSplit_v2
 import consts
 import logging
 import os
@@ -91,7 +91,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     consts.NUM_Z_CHANNELS = args.z_channels
-    net = modelsplit.Net()
+    net = modelSplit_v2.Net()
 
     if not args.cpu and torch.cuda.is_available():
         net.cuda()
