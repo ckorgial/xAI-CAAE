@@ -130,8 +130,8 @@ if __name__ == '__main__':
             should_plot=args.sp,
             where_to_save=results_dest,
             models_saving=args.models_saving,
-            explainable=False, # Change to True for enabling the xAI-System - Keep False for the Original CAAE
-            explanation_type='saliency'# If explainable = True, choose the explanatory method by typing saliency or shap or lime
+            explainable=False, # Change to True for enabling the xAI-System - Keep False for the Original CAAE !
+            explanation_type='saliency'# If explainable = True, choose the explanatory method by typing 'saliency' or 'shap' !
         )
 
     elif args.mode == 'test':
