@@ -39,6 +39,21 @@ python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --ou
 python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 to 6> --gender <0 or 1>
 ```
 
+# Directory Tree
+```
+LIME-CAAE   
+│   consts.py  
+│   mainCAAEsplit.py  
+│   modelSplit_v2.py   
+│   README.md
+|   requirements.txt
+│   utils.py
+|   utils_xai.py
+└───data
+│   └───CACD_UTKFace
+│   └───FGNET
+```
+
 # Authors
 
 ***Christos Korgialas and Evangelia Pantraki***
