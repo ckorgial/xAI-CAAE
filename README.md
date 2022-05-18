@@ -25,7 +25,7 @@ The control and change of the Explainable Artificial Intelligence system is achi
 # Virtual Environment
 
 ```shell
-conda create --name <env> --file requirements.txt
+conda create --name xaicaae --file requirements.txt
 ```
 
 # Training
@@ -36,7 +36,7 @@ python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --ou
 # Testing 
 
 ```shell
-python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 to 6> --gender <0 or 1>
+python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age 0 to 6 --gender 0 or 1
 ```
 
 # Directory Tree
