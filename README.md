@@ -36,7 +36,7 @@ python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --ou
 # Testing 
 
 ```shell
-python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 or 1> --gender <0 or 1>
+python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age <0 to 6> --gender <0 or 1>
 ```
 
 # Authors
