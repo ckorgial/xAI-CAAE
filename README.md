@@ -41,7 +41,7 @@ python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGN
 
 # Directory Tree
 ```
-LIME-CAAE   
+xAI-CAAE   
 │   consts.py  
 │   mainCAAEsplit.py  
 │   modelSplit_v2.py   
