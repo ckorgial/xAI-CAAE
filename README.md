@@ -25,11 +25,15 @@ The control and change of the Explainable Artificial Intelligence system is achi
 # Virtual Environment
 
 ```shell
-conda create --name xaicaae --file requirements.txt
+conda create -n xaicaae python=3.7 anaconda
 ```
 
 ```shell
 conda activate xaicaae
+```
+
+```shell
+pip install -r requirements.txt
 ```
 
 # Training
