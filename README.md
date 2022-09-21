@@ -63,7 +63,7 @@ xAI-CAAE
 ```
 
 # Authors
-Feel free to send us a message for any issue
+Feel free to send us a message for any issue.
 
 ***Christos Korgialas (ckorgial@csd.auth.gr), Evangelia Pantraki (epantrak@csd.auth.gr), Constantine Kotropoulos (costas@csd.auth.gr)***
 
