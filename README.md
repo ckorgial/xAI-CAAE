@@ -42,6 +42,7 @@ python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGN
 ```
 
 # Directory Tree
+
 ```
 xAI-CAAE   
 │   consts.py  
@@ -55,6 +56,8 @@ xAI-CAAE
     └───CACD_UTKFace
     └───FGNET
 ```
+
+ # Citation
 
 # Authors
 Feel free to send us a message for any issue.
