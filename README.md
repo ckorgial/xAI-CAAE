@@ -4,7 +4,7 @@ This repository was created with the aim of incorporating an Explanatory System 
 
 # Our Paper
 
-This repo contains the codes of the proposed xAI-CAAE described in the Face Aging by Explainable Conditional Adversarial Autoencoders paper. The paper was accepted to the Journal of Imaging - MDPI.
+This repo contains the codes of the proposed xAI-CAAE described in the **Face Aging by Explainable Conditional Adversarial Autoencoders** paper. The paper was accepted to the ***Journal of Imaging - MDPI***.
 
 # Dataset
 
