@@ -4,7 +4,7 @@ This repository was created with the aim of incorporating an Explanatory System 
 
 # Our Paper
 
-This repo contains the codes of the proposed xAI-CAAE described in the **Face Aging by Explainable Conditional Adversarial Autoencoders** paper. The paper was accepted to the ***Journal of Imaging - MDPI***.
+This repo contains the codes of the proposed xAI-CAAE described in the [**Face Aging by Explainable Conditional Adversarial Autoencoders**](https://www.mdpi.com/2313-433X/9/5/96) paper. The paper was accepted to the ***Journal of Imaging - MDPI***.
 
 # Dataset
 
@@ -62,6 +62,21 @@ xAI-CAAE
 ```
 
  # Citation
+ 
+ ```
+@Article{jimaging9050096,
+AUTHOR = {Korgialas, Christos and Pantraki, Evangelia and Bolari, Angeliki and Sotiroudi, Martha and Kotropoulos, Constantine},
+TITLE = {Face Aging by Explainable Conditional Adversarial Autoencoders},
+JOURNAL = {Journal of Imaging},
+VOLUME = {9},
+YEAR = {2023},
+NUMBER = {5},
+ARTICLE-NUMBER = {96},
+URL = {https://www.mdpi.com/2313-433X/9/5/96},
+ISSN = {2313-433X},
+DOI = {10.3390/jimaging9050096}
+}
+```
 
 # Authors
 Feel free to send us a message for any issue.
