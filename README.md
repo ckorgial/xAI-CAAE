@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 # Checkpoints
 
-The training weights for SHAP (θ = 0.5) can be found [here](https://drive.google.com/drive/folders/1hC19-w59bE2Pk0Rc6Pd3632KShgVJkp8?usp=sharing)
+The training weights for SHAP (θ = 0.5) can be found [here](https://drive.google.com/drive/folders/1hC19-w59bE2Pk0Rc6Pd3632KShgVJkp8?usp=sharing).
 
 # Training
 
