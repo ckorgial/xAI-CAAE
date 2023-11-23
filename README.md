@@ -42,14 +42,15 @@ python mainCAAEsplit.py --mode train --epochs 200 --input data/CACD_UTKFace --ou
 # Testing 
 
 ```shell
-python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGNET --output results/checkpoints/epoch200 --age 0 to 6 --gender 0 or 1
+python mainCAAEsplit.py --mode test --load checkpoints/epoch200_shap_0.5 --input data/FGNET --output results/checkpoints/epoch200_shap_0.5 --age 0 to 6 --gender 0 or 1
 ```
 
 # Directory Tree
 
 ```
 xAI-CAAE   
-│   consts.py  
+│   consts.py
+|   checkpoints
 │   mainCAAEsplit.py  
 │   modelSplit_v2.py   
 │   README.md
