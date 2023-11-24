@@ -54,6 +54,8 @@ python mainCAAEsplit.py --mode test --load checkpoints/epoch200 --input data/FGN
 ```
 xAI-CAAE   
 │   consts.py
+|   checkpoints
+    └───epoch 200
 │   mainCAAEsplit.py  
 │   modelSplit_v2.py   
 │   README.md
