@@ -87,7 +87,7 @@ DOI = {10.3390/jimaging9050096}
 # Authors
 Feel free to send us a message for any issue.
 
-***Christos Korgialas (ckorgial@csd.auth.gr) and Evangelia Pantraki (epantrak@csd.auth.gr)***
+***Christos Korgialas (ckorgial@csd.auth.gr), Evangelia Pantraki (epantrak@csd.auth.gr), and Constantine Kotropoulos (costas@csd.auth.gr)***
 
 
 
